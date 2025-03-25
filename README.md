@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Vastss
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m @DevMoraes07
+👀 I’m interested in be a Back End Developer
+🌱 I’m currently learning JavaScript
+💞️ I’m looking to collaborate on in any area
+📫 How to reach me Gmail: kaikbrunomoraes@gmail.com
 
 <!---
 Vastss/Vastss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
